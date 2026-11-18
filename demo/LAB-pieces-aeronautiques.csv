@@ -1,0 +1,9 @@
+reference,programme,statut,quantite,date_livraison,responsable,site
+LAB-P-001,LAB-A320,Bloqué,12,2026-12-15,Équipe Nord,Atelier Nord
+LAB-P-002,LAB-A320,En cours,8,2026-12-18,Équipe Nord,Atelier Nord
+LAB-P-003,LAB-A350,Reçu,4,2026-12-10,Équipe Sud,Atelier Sud
+LAB-P-004,LAB-A350,Livré,20,2026-11-28,Équipe Sud,Atelier Sud
+LAB-P-005,LAB-A320,En cours,6,2026-12-20,Équipe Nord,Atelier Nord
+LAB-P-006,LAB-A350,Bloqué,2,2026-12-22,Équipe Sud,Atelier Sud
+LAB-P-007,LAB-A400,Reçu,15,2026-12-05,Équipe Est,Atelier Est
+LAB-P-008,LAB-A400,Livré,30,2026-11-30,Équipe Est,Atelier Est

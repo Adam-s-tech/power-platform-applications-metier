@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-label="Capture fictive d'une application de suivi de pièces">
+  <rect width="1100" height="560" fill="#F6F7FB"/>
+  <rect x="40" y="30" width="1020" height="60" rx="10" fill="#2D3561"/>
+  <text x="70" y="68" font-family="Arial" font-size="24" fill="#FFFFFF" font-weight="bold">Suivi des pièces · démo fictive</text>
+  <rect x="60" y="120" width="300" height="110" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="85" y="155" font-family="Arial" font-size="16" fill="#666">Pièces suivies</text>
+  <text x="85" y="205" font-family="Arial" font-size="40" fill="#2D3561" font-weight="bold">42</text>
+  <rect x="390" y="120" width="300" height="110" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="415" y="155" font-family="Arial" font-size="16" fill="#666">En cours</text>
+  <text x="415" y="205" font-family="Arial" font-size="40" fill="#5847A7" font-weight="bold">18</text>
+  <rect x="720" y="120" width="300" height="110" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="745" y="155" font-family="Arial" font-size="16" fill="#666">Bloquées</text>
+  <text x="745" y="205" font-family="Arial" font-size="40" fill="#AC28B4" font-weight="bold">3</text>
+  <rect x="60" y="260" width="960" height="250" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="85" y="295" font-family="Arial" font-size="18" fill="#2D3561" font-weight="bold">Référence</text>
+  <text x="330" y="295" font-family="Arial" font-size="18" fill="#2D3561" font-weight="bold">Programme</text>
+  <text x="600" y="295" font-family="Arial" font-size="18" fill="#2D3561" font-weight="bold">Statut</text>
+  <text x="850" y="295" font-family="Arial" font-size="18" fill="#2D3561" font-weight="bold">Livraison</text>
+  <line x1="85" y1="310" x2="995" y2="310" stroke="#D9DCE8" stroke-width="2"/>
+  <text x="85" y="345" font-family="Arial" font-size="18" fill="#333">LAB-P-001</text><text x="330" y="345" font-family="Arial" font-size="18" fill="#333">LAB-A320</text><text x="600" y="345" font-family="Arial" font-size="18" fill="#C62828">Bloqué</text><text x="850" y="345" font-family="Arial" font-size="18" fill="#333">2026-12-15</text>
+  <text x="85" y="385" font-family="Arial" font-size="18" fill="#333">LAB-P-002</text><text x="330" y="385" font-family="Arial" font-size="18" fill="#333">LAB-A320</text><text x="600" y="385" font-family="Arial" font-size="18" fill="#B26A00">En cours</text><text x="850" y="385" font-family="Arial" font-size="18" fill="#333">2026-12-18</text>
+  <text x="85" y="425" font-family="Arial" font-size="18" fill="#333">LAB-P-003</text><text x="330" y="425" font-family="Arial" font-size="18" fill="#333">LAB-A350</text><text x="600" y="425" font-family="Arial" font-size="18" fill="#2E7D32">Reçu</text><text x="850" y="425" font-family="Arial" font-size="18" fill="#333">2026-12-10</text>
+  <text x="85" y="465" font-family="Arial" font-size="18" fill="#333">LAB-P-004</text><text x="330" y="465" font-family="Arial" font-size="18" fill="#333">LAB-A350</text><text x="600" y="465" font-family="Arial" font-size="18" fill="#2E7D32">Livré</text><text x="850" y="465" font-family="Arial" font-size="18" fill="#333">2026-11-28</text>
+  <text x="85" y="500" font-family="Arial" font-size="14" fill="#666">Données fictives, sous-traitant imaginaire.</text>
+</svg>
